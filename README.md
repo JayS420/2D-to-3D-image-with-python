@@ -12,3 +12,4 @@ Then I will use the pixel intensity of the resized greyscale iamge to determine 
 4. Basic Python 
 
 # Project Demo
+![3d image](https://user-images.githubusercontent.com/55405381/112625817-656def80-8e55-11eb-8635-44a575badc12.PNG)
